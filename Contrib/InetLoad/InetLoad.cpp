@@ -64,7 +64,7 @@
 #include <time.h>
 #include <io.h>
 #include <sys/stat.h>
-#include "..\exdll\exdll.h"
+#include "exdll.h"
 #include "resource.h"
 
 // IE 4 safety
